@@ -52,6 +52,7 @@ homebrew/php/php-cs-fixer
 nvm
 pyenv
 rbenv
+ruby-build
 plenv
 perl-build
 exenv
@@ -102,7 +103,6 @@ Caskroom/cask/libreoffice
 Caskroom/cask/xquartz
 Caskroom/cask/inkscape
 Caskroom/cask/gimp
-Caskroom/cask/seashore
 Caskroom/cask/gyazo
 Caskroom/cask/flux
 Caskroom/cask/bitbar
