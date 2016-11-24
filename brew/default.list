@@ -62,6 +62,7 @@ nimrod
 rust
 go
 app-engine-go-64
+mongoose
 pandoc
 android-sdk
 android-ndk
