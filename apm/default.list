@@ -11,9 +11,12 @@ merge-conflicts
 markdown-scroll-sync
 markdown-writer
 language-docker
+linter
 linter-docker
 language-digdag
+pandoc-convert
 # Themes
 duotone-dark-earth-syntax
 duotone-dark-sea-syntax
 duotone-dark-syntax
+atom-material-ui
