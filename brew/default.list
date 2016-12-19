@@ -83,7 +83,6 @@ Caskroom/cask/cyberduck
 Caskroom/cask/skype
 Caskroom/cask/hipchat
 Caskroom/cask/sequel-pro
-Caskroom/cask/pgadmin3
 Caskroom/cask/sqlitebrowser
 Caskroom/cask/mysqlworkbench
 Caskroom/cask/rdm
@@ -94,7 +93,7 @@ Caskroom/cask/cinch
 Caskroom/cask/atom
 Caskroom/cask/visual-studio-code
 Caskroom/cask/eclipse-java
-Caskroom/cask/intellij-idea
+Caskroom/versions/intellij-idea-ce
 Caskroom/cask/android-studio
 Caskroom/cask/poedit
 Caskroom/cask/sourcetree
