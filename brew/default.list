@@ -49,6 +49,8 @@ scala
 typesafe-activator
 homebrew/php/php71
 homebrew/php/php-cs-fixer
+homebrew/php/php-code-sniffer
+homebrew/php/composer
 nvm
 pyenv
 rbenv
