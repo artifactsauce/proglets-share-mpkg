@@ -1,5 +1,4 @@
-grunt-cli
 gulp
-bower
+yo
 coffeelint
 remark-lint
