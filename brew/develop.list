@@ -1,0 +1,124 @@
+# Development
+
+## Basic commands and shells
+coreutils
+zsh
+
+## Terminal utilities and commands
+htop-osx
+tmux
+reattach-to-user-namespace
+source-highlight
+
+## Text search
+the_platinum_searcher
+the_silver_searcher
+ack
+
+## Build tools and libs
+cmake
+libyaml
+libksba
+libssh2
+libxml2
+libxslt
+libevent
+libgit2
+openssl
+gnupg
+
+## Scripting commands and libs
+homebrew/dupes/rsync
+terminal-notifier
+fswatch
+siege
+sshuttle
+netcat
+ngrep
+jq
+tree
+peco
+parallel
+mongoose
+pandoc
+
+## VCS
+git
+git-flow
+git-lfs
+tig
+hub
+Caskroom/cask/sourcetree
+mergepbx
+
+## Programing languages
+Caskroom/cask/java
+homebrew/php/php71
+erlang
+nimrod
+rust
+go
+nvm
+pyenv
+rbenv
+ruby-build
+plenv
+perl-build
+exenv
+elixir-build
+
+## Development tools
+maven
+homebrew/php/composer
+homebrew/php/php-cs-fixer
+homebrew/php/php-code-sniffer
+homebrew/php/phpdocumentor
+homebrew/php/phpmd
+shellcheck
+
+## SDK
+android-sdk
+android-ndk
+
+## Cloud Managements
+awscli
+heroku-toolbelt
+docker-cloud
+Caskroom/cask/google-cloud-sdk
+
+## VM & Container
+Caskroom/cask/vagrant
+Caskroom/cask/virtualbox
+Caskroom/cask/docker
+
+## Editors & IDEs
+Caskroom/cask/atom
+Caskroom/cask/visual-studio-code
+Caskroom/cask/eclipse-java
+Caskroom/versions/intellij-idea-ce
+Caskroom/cask/phpstorm
+Caskroom/cask/android-studio
+Caskroom/cask/poedit
+
+## Database
+sqlite
+homebrew/versions/mysql56
+postgresql
+Caskroom/cask/sequel-pro
+
+## Data Processing
+embulk
+digdag
+
+## Completions
+zsh-completions
+vagrant-completion
+t-completion
+maven-completion
+
+## Network Clients
+Caskroom/cask/insomnia
+
+## Design
+Caskroom/cask/astah-community
+Caskroom/cask/google-web-designer
