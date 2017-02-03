@@ -1,9 +1,9 @@
-# setup-pkg-brew
+# share/mpkg/cpan/default
 
 mpkg.install.do_before() {
-  cpanm Menlo
+  :
 }
 
 mpkg.install.do_after() {
-  :
+  plenv rehash
 }
