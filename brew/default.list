@@ -40,8 +40,6 @@ git-lfs
 tig
 hub
 heroku-toolbelt
-emacs --with-cocoa --with-gnutls
-cask
 jq
 Caskroom/cask/java
 maven
