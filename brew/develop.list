@@ -99,6 +99,7 @@ Caskroom/versions/intellij-idea-ce
 Caskroom/cask/phpstorm
 Caskroom/cask/android-studio
 Caskroom/cask/poedit
+ctags
 
 ## Database
 sqlite
