@@ -1,5 +1,4 @@
 yarn
 gulp
 yo
-coffeelint
 remark-lint
