@@ -77,7 +77,7 @@ homebrew/php/phpmd
 shellcheck
 
 ## SDK
-android-sdk
+Caskroom/cask/android-sdk
 android-ndk
 
 ## Cloud Managements
