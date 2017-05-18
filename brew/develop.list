@@ -84,6 +84,7 @@ android-ndk
 awscli
 heroku-toolbelt
 docker-cloud
+firebase-cli
 Caskroom/cask/google-cloud-sdk
 
 ## VM & Container
