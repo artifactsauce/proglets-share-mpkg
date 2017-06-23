@@ -1,6 +1,5 @@
 Caskroom/cask/megasync
 Caskroom/cask/calibre
-Caskroom/cask/gitter
 Caskroom/cask/transmission
 Caskroom/cask/mplayerx
 Caskroom/cask/vlc
@@ -17,6 +16,3 @@ Caskroom/cask/origami-studio
 Caskroom/cask/visual-studio
 Caskroom/cask/jasper
 Caskroom/cask/github-desktop
-Caskroom/cask/sqlitebrowser
-Caskroom/cask/mysqlworkbench
-Caskroom/cask/rdm
