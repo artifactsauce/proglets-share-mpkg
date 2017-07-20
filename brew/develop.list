@@ -48,11 +48,11 @@ git-flow
 git-lfs
 tig
 hub
-Caskroom/cask/sourcetree
+caskroom/cask/sourcetree
 mergepbx
 
 ## Programing languages
-Caskroom/cask/java
+caskroom/cask/java
 homebrew/php/php71
 erlang
 nimrod
@@ -77,7 +77,7 @@ homebrew/php/phpmd
 shellcheck
 
 ## SDK
-Caskroom/cask/android-sdk
+caskroom/cask/android-sdk
 android-ndk
 
 ## Cloud Managements
@@ -85,28 +85,28 @@ awscli
 heroku-toolbelt
 docker-cloud
 firebase-cli
-Caskroom/cask/google-cloud-sdk
+caskroom/cask/google-cloud-sdk
 
 ## VM & Container
-Caskroom/cask/vagrant
-Caskroom/cask/virtualbox
-Caskroom/cask/docker
+caskroom/cask/vagrant
+caskroom/cask/virtualbox
+caskroom/cask/docker
 
 ## Editors & IDEs
-Caskroom/cask/atom
-Caskroom/cask/visual-studio-code
-Caskroom/cask/eclipse-java
+caskroom/cask/atom
+caskroom/cask/visual-studio-code
+caskroom/cask/eclipse-java
 Caskroom/versions/intellij-idea-ce
-Caskroom/cask/phpstorm
-Caskroom/cask/android-studio
-Caskroom/cask/poedit
+caskroom/cask/phpstorm
+caskroom/cask/android-studio
+caskroom/cask/poedit
 ctags
 
 ## Database
 sqlite
 homebrew/versions/mysql56
 postgresql
-Caskroom/cask/sequel-pro
+caskroom/cask/sequel-pro
 
 ## Data Processing
 embulk
@@ -119,9 +119,9 @@ t-completion
 maven-completion
 
 ## Network Clients
-Caskroom/cask/insomnia
-Caskroom/cask/jasper
+caskroom/cask/insomnia
+caskroom/cask/jasper
 
 ## Design
-Caskroom/cask/astah-community
-Caskroom/cask/google-web-designer
+caskroom/cask/astah-community
+caskroom/cask/google-web-designer

@@ -1,24 +1,22 @@
 # General
 
 ## Utilities
-Caskroom/cask/google-japanese-ime
-Caskroom/cask/alfred
-Caskroom/cask/dash
-Caskroom/cask/cinch
-Caskroom/cask/bitbar
-Caskroom/cask/cheatsheet
-Caskroom/cask/flux
-Caskroom/cask/qlmarkdown
-Caskroom/cask/appcleaner
+caskroom/cask/google-japanese-ime
+caskroom/cask/alfred
+caskroom/cask/dash
+caskroom/cask/cinch
+caskroom/cask/bitbar
+caskroom/cask/cheatsheet
+caskroom/cask/flux
+caskroom/cask/qlmarkdown
+caskroom/cask/appcleaner
 
 ## Cloud Storage
-Caskroom/cask/dropbox
-Caskroom/cask/google-drive
+caskroom/cask/dropbox
+caskroom/cask/google-backup-and-sync
 
 ## Network applications
-Caskroom/cask/firefox
-Caskroom/cask/cyberduck
-Caskroom/cask/skype
-
-## Office
-Caskroom/cask/libreoffice
+caskroom/cask/firefox
+caskroom/cask/cyberduck
+caskroom/cask/skype
+caskroom/versions/slack-beta
