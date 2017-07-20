@@ -53,7 +53,7 @@ mergepbx
 
 ## Programing languages
 caskroom/cask/java
-homebrew/php/php71
+homebrew/php/php56
 erlang
 nimrod
 rust
