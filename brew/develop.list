@@ -53,12 +53,10 @@ mergepbx
 
 ## Programing languages
 caskroom/cask/java
-homebrew/php/php56
 erlang
 nimrod
 rust
 go
-nvm
 pyenv
 rbenv
 ruby-build
@@ -66,14 +64,11 @@ plenv
 perl-build
 exenv
 elixir-build
+ndenv
+node-build
 
 ## Development tools
 maven
-homebrew/php/composer
-homebrew/php/php-cs-fixer
-homebrew/php/php-code-sniffer
-homebrew/php/phpdocumentor
-homebrew/php/phpmd
 shellcheck
 
 ## SDK
@@ -93,7 +88,7 @@ caskroom/cask/virtualbox
 caskroom/cask/docker
 
 ## Editors & IDEs
-caskroom/cask/atom
+caskroom/cask/atom-beta
 caskroom/cask/visual-studio-code
 caskroom/cask/eclipse-java
 Caskroom/versions/intellij-idea-ce
