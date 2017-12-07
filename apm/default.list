@@ -1,19 +1,9 @@
-remote-sync
-rest-client
-pandoc-convert
-multi-cursor
-jumpy
-git-control
-git-history
-git-log
-git-plus
-merge-conflicts
-markdown-scroll-sync
-markdown-writer
-linter
-linter-docker
+atom-ide-ui
+ide-flowtype
+ide-php
+ide-typescript
 language-docker
-language-digdag
+language-vue
 
 # Themes
 duotone-dark-earth-syntax
