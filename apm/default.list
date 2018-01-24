@@ -6,7 +6,5 @@ language-docker
 language-vue
 
 # Themes
-duotone-dark-earth-syntax
-duotone-dark-sea-syntax
-duotone-dark-syntax
-atom-material-ui
+qiita-syntax
+qiita-ui
