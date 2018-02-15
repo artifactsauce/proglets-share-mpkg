@@ -1,9 +1,14 @@
 atom-ide-ui
+go-plus
+goto-definition
 ide-flowtype
+ide-go
 ide-php
 ide-typescript
 language-docker
+language-log
 language-vue
+pretty-json
 
 # Themes
 qiita-syntax
