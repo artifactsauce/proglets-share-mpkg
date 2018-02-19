@@ -1,3 +1,4 @@
+DevonDCarew.bazel-code
 EditorConfig.EditorConfig
 PKief.material-icon-theme
 PeterJausovec.vscode-docker
@@ -28,3 +29,4 @@ vscoss.vscode-ansible
 vsmobile.vscode-react-native
 yzhang.markdown-all-in-one
 zhuangtongfa.Material-theme
+zxh404.vscode-proto3
