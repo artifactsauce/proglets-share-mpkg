@@ -88,7 +88,6 @@ caskroom/cask/virtualbox
 caskroom/cask/docker
 
 ## Editors & IDEs
-caskroom/cask/atom-beta
 caskroom/cask/visual-studio-code
 caskroom/cask/eclipse-java
 Caskroom/versions/intellij-idea-ce
