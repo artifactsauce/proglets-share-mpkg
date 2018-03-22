@@ -87,7 +87,6 @@ caskroom/cask/docker
 
 ## Editors & IDEs
 caskroom/cask/visual-studio-code
-caskroom/cask/eclipse-java
 Caskroom/versions/intellij-idea-ce
 caskroom/cask/phpstorm
 caskroom/cask/android-studio
