@@ -60,8 +60,6 @@ dep
 pyenv
 rbenv
 ruby-build
-plenv
-perl-build
 exenv
 elixir-build
 ndenv
