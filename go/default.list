@@ -1,4 +1,4 @@
-# VSCode Go plugin
+# Required from VSCode Go plugin
 golang.org/x/tools/cmd/godoc
 golang.org/x/tools/cmd/goimports
 golang.org/x/tools/cmd/gorename
@@ -20,3 +20,4 @@ github.com/haya14busa/goplay
 # Command line tools
 github.com/motemen/ghq
 github.com/McKael/madonctl
+golang.org/x/vgo

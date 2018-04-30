@@ -60,9 +60,7 @@ dep
 pyenv
 rbenv
 ruby-build
-exenv
-elixir-build
-ndenv
+nvm
 node-build
 
 ## Development tools
@@ -91,11 +89,10 @@ Caskroom/versions/intellij-idea-ce
 caskroom/cask/phpstorm
 caskroom/cask/android-studio
 caskroom/cask/poedit
-ctags
 
 ## Database
 sqlite
-homebrew/versions/mysql56
+mysql
 postgresql
 caskroom/cask/sequel-pro
 
