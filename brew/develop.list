@@ -48,6 +48,7 @@ git-lfs
 tig
 hub
 caskroom/cask/sourcetree
+homebrew/cask/gitup
 mergepbx
 
 ## Programing languages
@@ -112,9 +113,15 @@ caskroom/cask/jasper
 
 ## Design
 caskroom/cask/google-web-designer
+graphviz
+
+# Documentation
+swagger-codegen
+asciidoctor
 
 ## Misc.
 exercism
 caskroom/cask/astah-community
 caskroom/cask/etcher
 caskroom/cask/ngrok
+gradle

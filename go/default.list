@@ -21,3 +21,4 @@ github.com/haya14busa/goplay
 github.com/motemen/ghq
 github.com/McKael/madonctl
 golang.org/x/vgo
+github.com/swaggo/swag/cmd/swag
