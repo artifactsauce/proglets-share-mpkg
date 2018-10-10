@@ -13,11 +13,12 @@ felixfbecker.php-intellisense
 formulahendry.code-runner
 formulahendry.docker-explorer
 formulahendry.docker-extension-pack
-github.vscode-pull-request-github
+GitHub.vscode-pull-request-github
 gizak.shortcuts
 henriiik.vscode-perl
 idleberg.emoji-code
 jebbs.plantuml
+mads-hartmann.bash-ide-vscode
 mohsen1.prettify-json
 MS-CEINTL.vscode-language-pack-ja
 ms-kubernetes-tools.vscode-kubernetes-tools
@@ -26,6 +27,7 @@ ms-vscode.Go
 ms-vscode.node-debug2
 ms-vsliveshare.vsliveshare
 msjsdiag.debugger-for-chrome
+msysyamamoto.vscode-digdag
 octref.vetur
 PeterJausovec.vscode-docker
 PKief.material-icon-theme
@@ -33,8 +35,11 @@ pkosta2005.heroku-command
 rebornix.ruby
 redhat.java
 redhat.vscode-yaml
+rogalmic.bash-debug
+shakram02.bash-beautify
 shanoor.vscode-nginx
 shardulm94.trailing-spaces
+shd101wyy.markdown-preview-enhanced
 vscoss.vscode-ansible
 vsmobile.vscode-react-native
 zhuangtongfa.Material-theme
