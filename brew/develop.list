@@ -40,6 +40,7 @@ peco
 parallel
 mongoose
 pandoc
+protobuf --without-python@2
 
 ## VCS
 git
@@ -57,12 +58,14 @@ nimrod
 rust
 go
 dep
-pyenv
 rbenv
 ruby-build
+mruby-cli
 
 ## Development tools
 maven
+gradle
+bazel
 shellcheck
 
 ## SDK
@@ -71,15 +74,17 @@ android-ndk
 
 ## Cloud Managements
 awscli
-heroku-toolbelt
+heroku
 docker-cloud
 firebase-cli
 caskroom/cask/google-cloud-sdk
+terraform
 
 ## VM & Container
 caskroom/cask/vagrant
 caskroom/cask/virtualbox
 caskroom/cask/docker
+ansible
 
 ## Editors & IDEs
 caskroom/cask/visual-studio-code
@@ -90,7 +95,7 @@ caskroom/cask/poedit
 
 ## Database
 sqlite
-mysql
+mysql@5.7
 postgresql
 caskroom/cask/sequel-pro
 
@@ -118,7 +123,5 @@ asciidoctor
 
 ## Misc.
 exercism
-caskroom/cask/astah-community
 caskroom/cask/etcher
 caskroom/cask/ngrok
-gradle
