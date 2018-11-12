@@ -1,5 +1,4 @@
 DevonDCarew.bazel-code
-EditorConfig.EditorConfig
 abusaidm.html-snippets
 bajdzis.vscode-database
 bibhasdn.unique-lines
@@ -7,6 +6,7 @@ bungcip.better-toml
 castwide.solargraph
 dbaeumer.vscode-eslint
 eamodio.gitlens
+EditorConfig.EditorConfig
 eg2.tslint
 exiasr.hadolint
 fatihacet.gitlab-workflow
