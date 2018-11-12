@@ -85,6 +85,7 @@ caskroom/cask/vagrant
 caskroom/cask/virtualbox
 caskroom/cask/docker
 ansible
+hadolint
 
 ## Editors & IDEs
 caskroom/cask/visual-studio-code
