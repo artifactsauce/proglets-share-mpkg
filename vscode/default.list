@@ -2,6 +2,7 @@ DevonDCarew.bazel-code
 EditorConfig.EditorConfig
 abusaidm.html-snippets
 bajdzis.vscode-database
+bibhasdn.unique-lines
 bungcip.better-toml
 castwide.solargraph
 dbaeumer.vscode-eslint
@@ -20,6 +21,7 @@ henriiik.vscode-perl
 idleberg.emoji-code
 jebbs.plantuml
 mads-hartmann.bash-ide-vscode
+mechatroner.rainbow-csv
 mohsen1.prettify-json
 MS-CEINTL.vscode-language-pack-ja
 ms-kubernetes-tools.vscode-kubernetes-tools
@@ -43,5 +45,6 @@ shardulm94.trailing-spaces
 shd101wyy.markdown-preview-enhanced
 vscoss.vscode-ansible
 vsmobile.vscode-react-native
+wmaurer.change-case
 zhuangtongfa.Material-theme
 zxh404.vscode-proto3
