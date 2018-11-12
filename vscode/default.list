@@ -20,7 +20,9 @@ gizak.shortcuts
 henriiik.vscode-perl
 idleberg.emoji-code
 jebbs.plantuml
+lukasz-wronski.ftp-sync
 mads-hartmann.bash-ide-vscode
+marcostazi.VS-code-vagrantfile
 mechatroner.rainbow-csv
 mohsen1.prettify-json
 MS-CEINTL.vscode-language-pack-ja
@@ -43,6 +45,7 @@ shakram02.bash-beautify
 shanoor.vscode-nginx
 shardulm94.trailing-spaces
 shd101wyy.markdown-preview-enhanced
+vscode-ext.sync-rsync
 vscoss.vscode-ansible
 vsmobile.vscode-react-native
 wmaurer.change-case
