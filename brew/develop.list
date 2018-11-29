@@ -114,6 +114,10 @@ maven-completion
 caskroom/cask/insomnia
 caskroom/cask/jasper
 
+## Newtwork Utilities
+caskroom/cask/ngrok
+caskroom/cask/charles
+
 ## Design
 caskroom/cask/google-web-designer
 graphviz
@@ -125,4 +129,3 @@ asciidoctor
 ## Misc.
 exercism
 caskroom/cask/etcher
-caskroom/cask/ngrok
