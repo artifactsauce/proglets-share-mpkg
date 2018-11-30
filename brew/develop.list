@@ -97,6 +97,7 @@ t-completion
 ## Network Clients
 caskroom/cask/insomnia
 caskroom/cask/jasper
+caskroom/cask/google-chrome-canary
 
 ## Newtwork Utilities
 caskroom/cask/ngrok
