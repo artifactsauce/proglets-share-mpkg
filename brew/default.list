@@ -15,7 +15,7 @@ caskroom/cask/google-backup-and-sync
 
 ## Network applications
 caskroom/cask/google-chrome
-caskroom/cask/firefox-beta
+caskroom/cask/firefox
 caskroom/cask/cyberduck
 caskroom/cask/skype
 caskroom/versions/slack-beta
