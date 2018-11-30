@@ -54,7 +54,6 @@ caskroom/cask/sourcetree
 go
 rbenv
 ruby-build
-mruby-cli
 
 ## Development tools
 bazel
