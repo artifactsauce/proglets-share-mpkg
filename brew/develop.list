@@ -15,30 +15,30 @@ the_platinum_searcher
 the_silver_searcher
 
 ## Build tools and libs
-cmake
-libyaml
-libksba
-libssh2
-libxml2
-libxslt
-libevent
-libgit2
-openssl
-gnupg
+# cmake
+# libyaml
+# libksba
+# libssh2
+# libxml2
+# libxslt
+# libevent
+# libgit2
+# openssl
+# gnupg
 
 ## Scripting commands and libs
-homebrew/dupes/rsync
+# homebrew/dupes/rsync
 terminal-notifier
-fswatch
-siege
-sshuttle
-netcat
-ngrep
+# fswatch
+# siege
+# sshuttle
+# netcat
+# ngrep
 jq
 tree
 peco
 parallel
-mongoose
+# mongoose
 # pandoc
 protobuf --without-python@2
 
