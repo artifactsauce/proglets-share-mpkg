@@ -65,10 +65,6 @@ mruby-cli
 bazel
 shellcheck
 
-## SDK
-caskroom/cask/android-sdk
-android-ndk
-
 ## Cloud Managements
 awscli
 heroku
@@ -87,7 +83,6 @@ hadolint
 ## Editors & IDEs
 caskroom/cask/visual-studio-code
 caskroom/cask/phpstorm
-caskroom/cask/android-studio
 caskroom/cask/poedit
 
 ## Database
