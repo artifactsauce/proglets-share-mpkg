@@ -49,14 +49,9 @@ git-lfs
 tig
 hub
 caskroom/cask/sourcetree
-homebrew/cask/gitup
-mergepbx
 
 ## Programing languages
-nimrod
-rust
 go
-dep
 rbenv
 ruby-build
 mruby-cli
