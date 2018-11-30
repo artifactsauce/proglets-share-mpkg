@@ -39,7 +39,7 @@ tree
 peco
 parallel
 mongoose
-pandoc
+# pandoc
 protobuf --without-python@2
 
 ## VCS
@@ -81,13 +81,13 @@ caskroom/cask/poedit
 
 ## Database
 sqlite
-mysql@5.7
-postgresql
+# mysql@5.7
+# postgresql
 caskroom/cask/sequel-pro
 
 ## Data Processing
 embulk
-digdag
+# digdag
 
 ## Completions
 zsh-completions
