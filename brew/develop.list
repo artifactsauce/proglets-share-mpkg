@@ -58,6 +58,7 @@ ruby-build
 ## Development tools
 bazel
 shellcheck
+direnv
 
 ## Cloud Managements
 awscli
@@ -73,6 +74,7 @@ caskroom/cask/virtualbox
 caskroom/cask/docker
 ansible
 hadolint
+packer
 
 ## Editors & IDEs
 caskroom/cask/visual-studio-code
