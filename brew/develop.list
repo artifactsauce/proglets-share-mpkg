@@ -53,7 +53,6 @@ homebrew/cask/gitup
 mergepbx
 
 ## Programing languages
-caskroom/cask/java
 nimrod
 rust
 go
@@ -63,8 +62,6 @@ ruby-build
 mruby-cli
 
 ## Development tools
-maven
-gradle
 bazel
 shellcheck
 
@@ -89,7 +86,6 @@ hadolint
 
 ## Editors & IDEs
 caskroom/cask/visual-studio-code
-Caskroom/versions/intellij-idea-ce
 caskroom/cask/phpstorm
 caskroom/cask/android-studio
 caskroom/cask/poedit
@@ -108,7 +104,6 @@ digdag
 zsh-completions
 vagrant-completion
 t-completion
-maven-completion
 
 ## Network Clients
 caskroom/cask/insomnia
