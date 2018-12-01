@@ -54,7 +54,6 @@ caskroom/cask/github
 ## Programing languages
 go
 rbenv
-ruby-build
 
 ## Development tools
 # bazel
