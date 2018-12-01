@@ -63,7 +63,6 @@ direnv
 
 ## Cloud Managements
 awscli
-heroku
 docker-cloud
 firebase-cli
 caskroom/cask/google-cloud-sdk
@@ -116,4 +115,3 @@ asciidoctor
 
 ## Misc.
 exercism
-caskroom/cask/etcher
