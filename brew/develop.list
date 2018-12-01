@@ -63,7 +63,7 @@ direnv
 
 ## Cloud Managements
 awscli
-docker-cloud
+# docker-cloud
 firebase-cli
 caskroom/cask/google-cloud-sdk
 terraform
