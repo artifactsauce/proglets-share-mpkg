@@ -57,7 +57,7 @@ rbenv
 ruby-build
 
 ## Development tools
-bazel
+# bazel
 shellcheck
 direnv
 
@@ -87,7 +87,7 @@ sqlite
 caskroom/cask/sequel-pro
 
 ## Data Processing
-embulk
+# embulk
 # digdag
 
 ## Completions
@@ -110,7 +110,7 @@ caskroom/cask/origami-studio
 graphviz
 
 # Documentation
-swagger-codegen
+# swagger-codegen
 asciidoctor
 
 ## Misc.
