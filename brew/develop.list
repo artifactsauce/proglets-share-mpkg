@@ -49,6 +49,7 @@ git-lfs
 tig
 hub
 caskroom/cask/sourcetree
+caskroom/cask/github
 
 ## Programing languages
 go
@@ -106,6 +107,7 @@ caskroom/cask/charles
 
 ## Design
 caskroom/cask/google-web-designer
+caskroom/cask/origami-studio
 graphviz
 
 # Documentation
