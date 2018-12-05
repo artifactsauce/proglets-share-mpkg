@@ -17,28 +17,16 @@ the_silver_searcher
 # cmake
 # libyaml
 # libksba
-# libssh2
-# libxml2
-# libxslt
-# libevent
-# libgit2
 # openssl
 # gnupg
 
 ## Scripting commands and libs
 # homebrew/dupes/rsync
 terminal-notifier
-# fswatch
-# siege
-# sshuttle
-# netcat
-# ngrep
 jq
 tree
 peco
 parallel
-# mongoose
-# pandoc
 protobuf --without-python@2
 
 ## VCS
