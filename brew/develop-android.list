@@ -1,3 +1,11 @@
+caskroom/cask/java8
 caskroom/cask/android-sdk
+caskroom/cask/android-platform-tools
 caskroom/cask/android-ndk
 caskroom/cask/android-studio
+
+# Flutter
+--HEAD usbmuxd
+--HEAD libimobiledevice
+ideviceinstaller
+ios-deploy
