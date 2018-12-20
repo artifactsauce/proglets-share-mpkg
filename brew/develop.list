@@ -46,6 +46,7 @@ rbenv
 # bazel
 shellcheck
 direnv
+angular-cli
 
 ## Cloud Managements
 awscli
