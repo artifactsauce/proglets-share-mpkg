@@ -46,6 +46,7 @@ rbenv
 # bazel
 shellcheck
 direnv
+yarn
 angular-cli
 
 ## Cloud Managements
@@ -82,6 +83,7 @@ caskroom/cask/sequel-pro
 zsh-completions
 vagrant-completion
 t-completion
+yarn-completion
 
 ## Network Clients
 caskroom/cask/insomnia
