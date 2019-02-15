@@ -61,6 +61,7 @@ terraform
 caskroom/cask/vagrant
 caskroom/cask/virtualbox
 caskroom/cask/docker
+skaffold
 ansible
 hadolint
 packer
