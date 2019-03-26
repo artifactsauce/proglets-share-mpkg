@@ -41,6 +41,7 @@ caskroom/cask/github
 ## Programing languages
 go
 rbenv
+dart
 
 ## Development tools
 # bazel
