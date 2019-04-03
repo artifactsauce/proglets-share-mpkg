@@ -1,4 +1,5 @@
 bundler
+rake
 pry
 solargraph
 # bugspots
