@@ -1,5 +1,4 @@
 caskroom/cask/megasync
-caskroom/cask/calibre
 caskroom/cask/vectr
 caskroom/cask/xquartz
 caskroom/cask/inkscape
@@ -8,6 +7,4 @@ caskroom/cask/xmind
 caskroom/cask/spotify
 caskroom/cask/libreoffice
 caskroom/cask/snes9x
-caskroom/cask/wesnoth
-caskroom/cask/minecraft
 caskroom/cask/sweet-home3d
