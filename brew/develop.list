@@ -27,7 +27,7 @@ jq
 tree
 peco
 parallel
-protobuf --without-python@2
+protobuf
 
 ## VCS
 git
