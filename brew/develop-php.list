@@ -2,4 +2,4 @@ caskroom/cask/phpstorm
 composer
 php
 php-cs-fixer
-phpmd
+# phpmd
