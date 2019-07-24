@@ -29,6 +29,7 @@ mads-hartmann.bash-ide-vscode
 marcostazi.VS-code-vagrantfile
 mechatroner.rainbow-csv
 mohsen1.prettify-json
+ms-azuretools.vscode-docker
 MS-CEINTL.vscode-language-pack-ja
 ms-kubernetes-tools.vscode-kubernetes-tools
 ms-python.python
@@ -38,7 +39,6 @@ ms-vsliveshare.vsliveshare
 msjsdiag.debugger-for-chrome
 msysyamamoto.vscode-digdag
 octref.vetur
-PeterJausovec.vscode-docker
 PKief.material-icon-theme
 pkosta2005.heroku-command
 rebornix.ruby
