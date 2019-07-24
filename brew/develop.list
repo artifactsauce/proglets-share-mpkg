@@ -41,14 +41,14 @@ caskroom/cask/github
 ## Programing languages
 go
 rbenv
-dart
+# dart
 
 ## Development tools
 # bazel
 shellcheck
 direnv
-yarn
-angular-cli
+# yarn
+# angular-cli
 
 ## Cloud Managements
 awscli
@@ -61,7 +61,6 @@ terraform
 ## VM & Container
 caskroom/cask/vagrant
 caskroom/cask/virtualbox
-caskroom/cask/docker
 skaffold
 ansible
 hadolint
@@ -75,7 +74,7 @@ caskroom/cask/poedit
 sqlite
 # mysql@5.7
 # postgresql
-caskroom/cask/sequel-pro
+caskroom/cask/tableplus
 
 ## Data Processing
 # embulk
@@ -85,20 +84,15 @@ caskroom/cask/sequel-pro
 zsh-completions
 vagrant-completion
 t-completion
-yarn-completion
+# yarn-completion
 
 ## Network Clients
 caskroom/cask/insomnia
 caskroom/cask/jasper
 caskroom/cask/google-chrome-canary
 
-## Newtwork Utilities
-caskroom/cask/ngrok
-caskroom/cask/charles
-
 ## Design
 caskroom/cask/google-web-designer
-caskroom/cask/origami-studio
 graphviz
 
 # Documentation
