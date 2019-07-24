@@ -47,7 +47,11 @@ rbenv
 # bazel
 shellcheck
 direnv
+<<<<<<< Updated upstream
 # yarn
+=======
+yarn
+>>>>>>> Stashed changes
 # angular-cli
 
 ## Cloud Managements
@@ -61,6 +65,11 @@ terraform
 ## VM & Container
 caskroom/cask/vagrant
 caskroom/cask/virtualbox
+<<<<<<< Updated upstream
+=======
+docker
+docker-compose
+>>>>>>> Stashed changes
 skaffold
 ansible
 hadolint
