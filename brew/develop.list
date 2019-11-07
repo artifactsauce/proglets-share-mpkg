@@ -2,7 +2,6 @@
 
 ## Basic commands and shells
 coreutils
-zsh
 
 ## Terminal utilities and commands
 htop-osx
@@ -35,8 +34,8 @@ git-flow
 git-lfs
 tig
 hub
-caskroom/cask/sourcetree
-caskroom/cask/github
+homebrew/cask/sourcetree
+homebrew/cask/github
 
 ## Programing languages
 go
@@ -52,29 +51,28 @@ direnv
 awscli
 # docker-cloud
 firebase-cli
-caskroom/cask/google-cloud-sdk
+homebrew/cask/google-cloud-sdk
 heroku/brew/heroku
 terraform
 
 ## VM & Container
-caskroom/cask/vagrant
-caskroom/cask/virtualbox
-docker
-docker-compose
+homebrew/cask/vagrant
+homebrew/cask/virtualbox
+homebrew/cask/docker
 skaffold
 ansible
 hadolint
 packer
 
 ## Editors & IDEs
-caskroom/cask/visual-studio-code
-caskroom/cask/poedit
+homebrew/cask/visual-studio-code
+homebrew/cask/poedit
 
 ## Database
 sqlite
 # mysql@5.7
 # postgresql
-caskroom/cask/tableplus
+homebrew/cask/tableplus
 
 ## Data Processing
 # embulk
@@ -86,9 +84,9 @@ vagrant-completion
 t-completion
 
 ## Network Clients
-caskroom/cask/insomnia
-caskroom/cask/jasper
-caskroom/cask/google-chrome-canary
+homebrew/cask/insomnia
+homebrew/cask/jasper
+homebrew/cask/google-chrome-canary
 
 ## Design
 caskroom/cask/google-web-designer

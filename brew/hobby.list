@@ -1,8 +1,9 @@
-caskroom/cask/megasync
-caskroom/cask/vectr
-caskroom/cask/gimp
-caskroom/cask/xmind
-caskroom/cask/spotify
-caskroom/cask/libreoffice
-caskroom/cask/snes9x
-caskroom/cask/sweet-home3d
+homebrew/cask/megasync
+homebrew/cask/calibre
+homebrew/cask/vectr
+homebrew/cask/gimp
+homebrew/cask/xmind
+homebrew/cask/spotify
+homebrew/cask/libreoffice
+homebrew/cask/snes9x
+homebrew/cask/sweet-home3d

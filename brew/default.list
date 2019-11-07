@@ -1,21 +1,21 @@
 # General
 
 ## Utilities
-caskroom/cask/google-japanese-ime
-caskroom/cask/alfred
-caskroom/cask/cinch
-caskroom/cask/bitbar
-caskroom/cask/cheatsheet
-caskroom/cask/qlmarkdown
-caskroom/cask/appcleaner
+homebrew/cask/google-japanese-ime
+homebrew/cask/alfred
+homebrew/cask/cinch
+homebrew/cask/bitbar
+homebrew/cask/cheatsheet
+homebrew/cask/qlmarkdown
+homebrew/cask/appcleaner
 
 ## Cloud Storage
-caskroom/cask/dropbox
-caskroom/cask/google-backup-and-sync
+homebrew/cask/dropbox
+homebrew/cask/google-backup-and-sync
 
 ## Network applications
-caskroom/cask/google-chrome
-caskroom/cask/firefox
-caskroom/cask/cyberduck
-caskroom/cask/skype
-caskroom/versions/slack-beta
+homebrew/cask/google-chrome
+homebrew/cask/firefox
+homebrew/cask/cyberduck
+homebrew/cask/skype
+homebrew/cask-versions/slack-beta
