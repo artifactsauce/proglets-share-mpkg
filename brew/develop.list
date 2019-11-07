@@ -41,13 +41,11 @@ caskroom/cask/github
 ## Programing languages
 go
 rbenv
-# dart
 
 ## Development tools
 # bazel
 shellcheck
 direnv
-# yarn
 # angular-cli
 
 ## Cloud Managements
@@ -86,7 +84,6 @@ caskroom/cask/tableplus
 zsh-completions
 vagrant-completion
 t-completion
-# yarn-completion
 
 ## Network Clients
 caskroom/cask/insomnia
