@@ -1,6 +1,7 @@
 DevonDCarew.bazel-code
 abusaidm.html-snippets
 alefragnani.project-manager
+apollographql.vscode-apollo
 bajdzis.vscode-database
 bibhasdn.unique-lines
 bungcip.better-toml
@@ -8,10 +9,10 @@ castwide.solargraph
 Dart-Code.dart-code
 Dart-Code.flutter
 dbaeumer.vscode-eslint
-dracula-theme.theme-dracula
 eamodio.gitlens
 EditorConfig.EditorConfig
 eg2.tslint
+Equinusocio.vsc-material-theme
 exiasr.hadolint
 fatihacet.gitlab-workflow
 felixfbecker.php-debug
@@ -39,7 +40,6 @@ ms-vsliveshare.vsliveshare
 msjsdiag.debugger-for-chrome
 msysyamamoto.vscode-digdag
 octref.vetur
-PKief.material-icon-theme
 pkosta2005.heroku-command
 rebornix.ruby
 redhat.java
@@ -50,11 +50,11 @@ shakram02.bash-beautify
 shanoor.vscode-nginx
 shardulm94.trailing-spaces
 shd101wyy.markdown-preview-enhanced
+technosophos.vscode-make
 timonwong.shellcheck
 titiaiev.vue-docs
 vscode-ext.sync-rsync
 vscoss.vscode-ansible
 wmaurer.change-case
 xabikos.JavaScriptSnippets
-zhuangtongfa.Material-theme
 zxh404.vscode-proto3
