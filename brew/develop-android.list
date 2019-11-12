@@ -1,8 +1,8 @@
-caskroom/cask/java8
-caskroom/cask/android-sdk
-caskroom/cask/android-platform-tools
-caskroom/cask/android-ndk
-caskroom/cask/android-studio
+homebrew/cask/java
+homebrew/cask/android-sdk
+homebrew/cask/android-platform-tools
+homebrew/cask/android-ndk
+homebrew/cask/android-studio
 
 # Flutter
 --HEAD usbmuxd

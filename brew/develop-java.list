@@ -1,5 +1,5 @@
-caskroom/cask/java
+homebrew/cask/java
 maven-completion
-caskroom/cask/intellij-idea-ce
+homebrew/cask/intellij-idea-ce
 maven
 gradle
