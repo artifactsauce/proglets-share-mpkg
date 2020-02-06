@@ -8,6 +8,7 @@ htop-osx
 tmux
 reattach-to-user-namespace
 source-highlight
+bandwhich
 
 ## Text search
 the_silver_searcher
@@ -40,9 +41,10 @@ homebrew/cask/github
 ## Programing languages
 go
 rbenv
+haskell-stack
 
 ## Development tools
-# bazel
+bazel
 shellcheck
 direnv
 # angular-cli
