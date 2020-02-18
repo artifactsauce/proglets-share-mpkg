@@ -92,7 +92,7 @@ homebrew/cask/google-chrome-canary
 
 ## Design
 caskroom/cask/google-web-designer
-graphviz
+# graphviz
 
 # Documentation
 # swagger-codegen
