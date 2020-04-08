@@ -43,6 +43,7 @@ homebrew/cask/github
 go
 rbenv
 haskell-stack
+typescript
 
 ## Development tools
 bazel
