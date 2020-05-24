@@ -3,3 +3,4 @@ bash-language-server
 alfred-vscode
 @google/clasp
 chrome-extension-cli
+gulp-cli
