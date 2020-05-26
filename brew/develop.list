@@ -91,6 +91,7 @@ t-completion
 homebrew/cask/insomnia
 homebrew/cask/jasper
 homebrew/cask/google-chrome-canary
+homebrew/cask/lightproxy
 
 ## Design
 caskroom/cask/google-web-designer
