@@ -26,6 +26,7 @@ terminal-notifier
 jq
 tree
 peco
+ghq
 parallel
 protobuf
 
