@@ -35,6 +35,7 @@ git
 git-flow
 git-lfs
 tig
+gh
 hub
 gist
 homebrew/cask/sourcetree
