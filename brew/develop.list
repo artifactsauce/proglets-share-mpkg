@@ -96,7 +96,7 @@ homebrew/cask/google-chrome-canary
 homebrew/cask/lightproxy
 
 ## Design
-caskroom/cask/google-web-designer
+homebrew/cask/google-web-designer
 # graphviz
 
 # Documentation
@@ -105,4 +105,4 @@ asciidoctor
 
 ## Misc.
 exercism
-caskroom/cask/balenaetcher
+homebrew/cask/balenaetcher
