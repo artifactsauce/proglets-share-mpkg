@@ -1,4 +1,4 @@
-homebrew/cask/java
+homebrew/cask/adoptopenjdk
 homebrew/cask/android-sdk
 homebrew/cask/android-platform-tools
 homebrew/cask/android-ndk

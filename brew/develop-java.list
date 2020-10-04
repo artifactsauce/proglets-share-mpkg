@@ -1,5 +1,5 @@
 homebrew/cask/adoptopenjdk8
-homebrew/cask/java
+homebrew/cask/adoptopenjdk
 maven
 gradle
 maven-completion
