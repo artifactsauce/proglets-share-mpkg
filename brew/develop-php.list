@@ -1,5 +1,5 @@
 homebrew/cask/phpstorm
-composer
-php
-php-cs-fixer
+# composer
+# php
+# php-cs-fixer
 # phpmd
