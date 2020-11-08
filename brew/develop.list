@@ -27,7 +27,6 @@ jq
 tree
 peco
 ghq
-parallel
 protobuf
 
 ## VCS
@@ -97,7 +96,6 @@ homebrew/cask/lightproxy
 
 ## Design
 homebrew/cask/google-web-designer
-# graphviz
 
 # Documentation
 # swagger-codegen
