@@ -33,6 +33,7 @@ protobuf
 git
 git-flow
 git-lfs
+git-filter-repo
 tig
 gh
 hub
