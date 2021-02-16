@@ -94,6 +94,7 @@ homebrew/cask/insomnia
 homebrew/cask/jasper
 homebrew/cask/google-chrome-canary
 homebrew/cask/lightproxy
+bloomrpc
 
 ## Design
 homebrew/cask/google-web-designer
