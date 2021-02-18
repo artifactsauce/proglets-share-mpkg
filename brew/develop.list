@@ -79,6 +79,7 @@ sqlite
 # mysql@5.7
 # postgresql
 homebrew/cask/tableplus
+dgraph
 
 ## Data Processing
 # embulk
