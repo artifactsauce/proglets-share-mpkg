@@ -58,7 +58,6 @@ awscli
 # docker-cloud
 firebase-cli
 homebrew/cask/google-cloud-sdk
-heroku/brew/heroku
 terraform
 
 ## VM & Container
