@@ -102,6 +102,7 @@ homebrew/cask/google-web-designer
 # Documentation
 # swagger-codegen
 asciidoctor
+graphviz
 
 ## Misc.
 exercism
