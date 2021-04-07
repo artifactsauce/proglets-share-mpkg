@@ -28,6 +28,7 @@ tree
 peco
 ghq
 protobuf
+protoc-gen-go 
 
 ## VCS
 git
