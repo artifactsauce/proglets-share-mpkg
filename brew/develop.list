@@ -70,7 +70,6 @@ packer
 
 ## Editors & IDEs
 homebrew/cask/visual-studio-code
-homebrew/cask/poedit
 
 ## Database
 sqlite
