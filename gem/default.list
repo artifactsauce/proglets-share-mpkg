@@ -2,7 +2,4 @@ bundler
 rake
 pry
 solargraph
-# bugspots
-# travis
 t
-# cocoapods
