@@ -28,7 +28,7 @@ tree
 peco
 ghq
 protobuf
-protoc-gen-go 
+protoc-gen-go
 
 ## VCS
 git
@@ -67,6 +67,7 @@ skaffold
 ansible
 hadolint
 packer
+buildpacks/tap/pack
 
 ## Editors & IDEs
 homebrew/cask/visual-studio-code
