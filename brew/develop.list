@@ -95,6 +95,9 @@ t-completion
 --cask lightproxy
 bloomrpc
 
+## Network tools
+cloudflare/cloudflare/cloudflared
+
 ## Design
 --cask google-web-designer
 
