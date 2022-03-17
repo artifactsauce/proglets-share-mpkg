@@ -1,4 +1,4 @@
-homebrew/cask/phpstorm
+--cask phpstorm
 # composer
 # php
 # php-cs-fixer

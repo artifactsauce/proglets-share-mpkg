@@ -39,8 +39,8 @@ tig
 gh
 hub
 gist
-homebrew/cask/sourcetree
-homebrew/cask/github
+--cask sourcetree
+--cask github
 
 ## Programing languages
 go
@@ -56,13 +56,13 @@ direnv
 ## Cloud Managements
 awscli
 firebase-cli
-homebrew/cask/google-cloud-sdk
+--cask google-cloud-sdk
 terraform
 
 ## VM & Container
-homebrew/cask/vagrant
-homebrew/cask/virtualbox
-homebrew/cask/docker
+--cask vagrant
+--cask virtualbox
+--cask docker
 skaffold
 ansible
 hadolint
@@ -70,13 +70,13 @@ packer
 buildpacks/tap/pack
 
 ## Editors & IDEs
-homebrew/cask/visual-studio-code
+--cask visual-studio-code
 
 ## Database
 sqlite
 # mysql@5.7
 # postgresql
-homebrew/cask/tableplus
+--cask tableplus
 dgraph
 
 ## Data Processing
@@ -89,14 +89,14 @@ vagrant-completion
 t-completion
 
 ## Network Clients
-homebrew/cask/insomnia
-homebrew/cask/jasper
-homebrew/cask/google-chrome-canary
-homebrew/cask/lightproxy
+--cask insomnia
+--cask jasper
+--cask google-chrome-canary
+--cask lightproxy
 bloomrpc
 
 ## Design
-homebrew/cask/google-web-designer
+--cask google-web-designer
 
 # Documentation
 # swagger-codegen
@@ -105,4 +105,4 @@ graphviz
 
 ## Misc.
 exercism
-homebrew/cask/balenaetcher
+--cask balenaetcher

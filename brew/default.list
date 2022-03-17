@@ -1,19 +1,19 @@
 # General
 
 ## Utilities
-homebrew/cask/google-japanese-ime
-homebrew/cask/alfred
-homebrew/cask/cinch
-homebrew/cask/cheatsheet
-homebrew/cask/appcleaner
+--cask google-japanese-ime
+--cask alfred
+--cask cinch
+--cask cheatsheet
+--cask appcleaner
 
 ## Cloud Storage
-homebrew/cask/dropbox
-homebrew/cask/google-backup-and-sync
+--cask dropbox
+--cask google-backup-and-sync
 
 ## Network applications
-homebrew/cask/google-chrome
-homebrew/cask/firefox
-homebrew/cask/cyberduck
-homebrew/cask-versions/slack-beta
-homebrew/cask/tunnelblick
+--cask google-chrome
+--cask firefox
+--cask cyberduck
+--cask slack-beta
+--cask tunnelblick

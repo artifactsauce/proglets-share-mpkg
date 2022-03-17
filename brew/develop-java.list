@@ -1,6 +1,6 @@
-homebrew/cask/adoptopenjdk8
-homebrew/cask/adoptopenjdk
+--cask adoptopenjdk8
+--cask adoptopenjdk
 maven
 gradle
 maven-completion
-homebrew/cask/intellij-idea-ce
+--cask intellij-idea-ce

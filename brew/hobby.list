@@ -1,8 +1,8 @@
-homebrew/cask/megasync
-homebrew/cask/calibre
-homebrew/cask/vectr
-homebrew/cask/gimp
-homebrew/cask/xmind
-homebrew/cask/spotify
-homebrew/cask/libreoffice
-homebrew/cask/sweet-home3d
+--cask megasync
+--cask calibre
+--cask vectr
+--cask gimp
+--cask xmind
+--cask spotify
+--cask libreoffice
+--cask sweet-home3d
