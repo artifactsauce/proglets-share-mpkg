@@ -71,6 +71,7 @@ buildpacks/tap/pack
 
 ## Editors & IDEs
 --cask visual-studio-code
+--cask intellij-idea-ce
 
 ## Database
 sqlite
