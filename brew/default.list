@@ -8,7 +8,7 @@
 --cask appcleaner
 
 ## Cloud Storage
---cask dropbox
+--cask maestral
 --cask google-backup-and-sync
 
 ## Network applications
