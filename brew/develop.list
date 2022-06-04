@@ -2,6 +2,7 @@
 
 ## Basic commands and shells
 coreutils
+nushell
 
 ## Terminal utilities and commands
 htop-osx
@@ -57,6 +58,7 @@ direnv
 awscli
 firebase-cli
 --cask google-cloud-sdk
+okteto
 terraform
 
 ## VM & Container
