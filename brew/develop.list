@@ -93,7 +93,6 @@ t-completion
 
 ## Network Clients
 --cask insomnia
---cask jasper
 --cask google-chrome-canary
 --cask lightproxy
 bloomrpc
