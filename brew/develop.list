@@ -80,7 +80,7 @@ sqlite
 # mysql@5.7
 # postgresql
 --cask tableplus
-dgraph
+percona-toolkit
 
 ## Data Processing
 # embulk
@@ -107,7 +107,3 @@ cloudflare/cloudflare/cloudflared
 # swagger-codegen
 asciidoctor
 graphviz
-
-## Misc.
-exercism
---cask balenaetcher

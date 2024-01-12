@@ -6,6 +6,7 @@
 --cask cinch
 --cask cheatsheet
 --cask appcleaner
+--cask rectangle
 
 ## Cloud Storage
 --cask maestral
@@ -14,6 +15,8 @@
 ## Network applications
 --cask google-chrome
 --cask firefox
+--cask duckduckgo
 --cask cyberduck
 --cask slack-beta
 --cask tunnelblick
+duck
