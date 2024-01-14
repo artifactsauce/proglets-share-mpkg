@@ -4,13 +4,12 @@
 --cask google-japanese-ime
 --cask alfred
 --cask cinch
---cask cheatsheet
 --cask appcleaner
 --cask rectangle
 
 ## Cloud Storage
 --cask maestral
---cask google-backup-and-sync
+--cask google-drive
 
 ## Network applications
 --cask google-chrome
