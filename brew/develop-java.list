@@ -1,4 +1,4 @@
---cask adoptopenjdk8
---cask adoptopenjdk
+openjdk
+openjdk@8
 maven
 gradle

@@ -1,4 +1,4 @@
---cask adoptopenjdk
+openjdk
 --cask android-sdk
 --cask android-platform-tools
 --cask android-ndk
