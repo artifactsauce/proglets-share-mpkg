@@ -46,8 +46,13 @@ gist
 ## Programing languages
 go
 rbenv
-haskell-stack
 typescript
+
+### haskell
+haskell-stack
+ghc
+ghcup
+haskell-language-server
 
 ## Development tools
 bazel
