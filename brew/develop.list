@@ -100,7 +100,7 @@ t-completion
 
 ## Network Clients
 --cask insomnia
---cask google-chrome-canary
+--cask google-chrome@canary
 --cask lightproxy
 bloomrpc
 
