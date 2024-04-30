@@ -66,6 +66,7 @@ firebase-cli
 --cask google-cloud-sdk
 okteto
 terraform
+--cask openlens
 
 ## VM & Container
 --cask vagrant
